@@ -1,4 +1,38 @@
-![babirakkk's GitHub stats](https://github-readme-stats.vercel.app/api?username=babirakkk&hide=stars,contribs&count_private=true&show_icons=true&theme=tokyonight)
+<!-- GitHub Stats -->
+<h3 align="left">💻 GitHub Stats</h3>
+<hr>
+
+<div align="left">
+  <img
+    src="https://github-readme-stats-rickstaa.vercel.app/api?username=babirakkk&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+    height="165"
+    align="top"
+  />
+  &nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=babirakkk&layout=compact&theme=tokyonight"
+    alt="Top Languages"
+    height="165"
+    align="top"
+  />
+</div>
+
+<br/>
+
+<!-- Algorithm -->
+<h3 align="left">🧩 Algorithm</h3>
+<hr>
+
+<a href="https://solved.ac/profile/ybkang1108">
+  <img
+    src="https://mazassumnida.wtf/api/v2/generate_badge?boj=ybkang1108"
+    alt="Solved.ac Profile"
+    height="165"
+  />
+</a>
+
+
 
 <!--
 **babirakkk/babirakkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
