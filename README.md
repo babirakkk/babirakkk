@@ -4,14 +4,14 @@
 
 <div align="left">
   <img
-    src="https://github-readme-stats-rickstaa.vercel.app/api?username=babirakkk&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=babirakkk&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
     height="165"
     align="top"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=babirakkk&layout=compact&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=babirakkk&theme=tokyonight&hide_border=true"
     alt="Top Languages"
     height="165"
     align="top"
